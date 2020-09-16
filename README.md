@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
+###I'm Gaurav Dahal Currently Pursuing B.Tech in my final year at SRM University AP.
 
 - 🔭 I’m currently working on React Development
 - 👯 I’m looking to collaborate on Android/Frontend development
