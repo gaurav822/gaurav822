@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###I'm Gaurav Dahal Currently Pursuing B.Tech in my final year at SRM University AP.
+### I'm Gaurav Dahal Currently Pursuing B.Tech in my final year at SRM University AP.
 
 - 🔭 I’m currently working on React Development
 - 👯 I’m looking to collaborate on Android/Frontend development
