@@ -3,8 +3,8 @@
 ### I'm Gaurav Dahal Currently Pursuing B.Tech in my final year at SRM University AP.
 
 - 🔭 I’m currently working on Flutter Development
-- 👯 I’m looking to collaborate on Android/Frontend development
-- 🤔 I’m looking for Android/frontend development internship
+- 👯 I’m looking to collaborate on mobile development
+- 🤔 I’m looking for Flutter/Android development internship
 
 
 
