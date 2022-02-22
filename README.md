@@ -2,9 +2,9 @@
 
 ### I'm Gaurav Dahal.
 
-- 🔭 I’m currently working on Flutter Development
+- 🔭 I’m currently working on Flutter and Django Development.
 - 👯 I’m looking to collaborate on mobile development
-- 🤔 I’m looking for Flutter/Android development internship
+- 🤔 I’m looking for Flutter development job role
 
 
 
